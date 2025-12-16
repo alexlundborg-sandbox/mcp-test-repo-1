@@ -1,0 +1,34 @@
+# .NET build outputs
+bin/
+obj/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+packages/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+# User-specific files
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Test Results
+[Tt]est[Rr]esult*/
+TestResults/
+
+# OS generated files
+.DS_Store
+Thumbs.db
